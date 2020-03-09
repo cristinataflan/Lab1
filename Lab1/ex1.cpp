@@ -1,15 +1,11 @@
 #include <cassert>
 #include <iostream>
+#include "ex1.h"
 
 using std::cout;
 
-void tests();
-bool primzahl(int x);
-void alle_prim(int x);
-void langste_teilfolge(int v[], int n);
 
-
-int main()
+void my_main()
 {
 	tests();
 
@@ -19,7 +15,6 @@ int main()
 	cout << "\nUbung 1.b)\n";
 	int v[12] = { 1, 7, 0, -4, 8, 15, 23, 23, 8, -42, 84, 109 };
 	langste_teilfolge(v, 12);
-	return 0;
 }
 
 

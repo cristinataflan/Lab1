@@ -9,7 +9,7 @@ void alle_prim(int x);
 void langste_teilfolge(int v[], int n);
 
 
-int main()
+/*int main()
 {
 	tests();
 
@@ -20,7 +20,7 @@ int main()
 	int v[12] = { 1, 7, 0, -4, 8, 15, 23, 23, 8, -42, 84, 109 };
 	langste_teilfolge(v, 12);
 	return 0;
-}
+} */
 
 
 void tests()

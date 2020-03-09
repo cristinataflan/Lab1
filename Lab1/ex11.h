@@ -1,4 +1,5 @@
 #pragma once
+void main1();
 bool prim(int x);
 void test();
 void twinzahlen(int n);

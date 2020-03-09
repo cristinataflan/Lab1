@@ -21,6 +21,9 @@
     <ClCompile Include="ex11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ex11.h">

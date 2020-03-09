@@ -2,6 +2,7 @@
 //
 #include <cassert>
 #include <iostream>
+#include "ex11.h"
 using namespace std;
 
 bool prim(int x)
@@ -78,7 +79,7 @@ void abnehmendeTeilfolge(int v[20], int n, int newliste[20])
 }
 
 
-int main()
+void main1()
 {
     cout << "Punkt a:" << endl;
     twinzahlen(3);

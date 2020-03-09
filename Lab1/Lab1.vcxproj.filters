@@ -23,6 +23,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ex11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="ex1.h">
       <Filter>Header Files</Filter>
     </ClInclude>

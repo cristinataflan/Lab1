@@ -83,11 +83,12 @@ void main1()
 {
     cout << "Punkt a:" << endl;
     twinzahlen(3);
-    cout << "Punkt b:" << endl;
+    cout << endl << "Punkt b:" << endl;
     int n = 10, newliste[20];
     int v[] = { 10,9,8,9,6,5,9,3,2,1 };
 
     abnehmendeTeilfolge(v, 10, newliste);
+    cout << endl;
     test();
 
 
